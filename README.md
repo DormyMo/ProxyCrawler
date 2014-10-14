@@ -7,5 +7,6 @@ a proxy address crawler which crawl xici.net.co based on scrapy
 
 #Run
 ``cd ProxyCrawler/ProxyCrawler/spiders/``
+
 ``scrapy crawl xici``
 
